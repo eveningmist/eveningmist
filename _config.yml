@@ -1,0 +1,18 @@
+title: Evening Mist
+email: eveningmisthazel@gmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+ This is Evening Mist a Blog written By UNknow
+
+baseurl: ""
+
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+twitter_username: UNknow
+github_username:  UNknow
+facebook_username: UNknow
+
+# Build settings
+markdown:  kramdown
+
+permalinks: /:day/:month/:year/:title/

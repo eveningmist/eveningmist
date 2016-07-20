@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts limit: 5 %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+	  <div class="exp">
+	    {{ post.excerpt }}
+	    </div>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
