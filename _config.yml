@@ -13,6 +13,6 @@ github_username:  UNknow
 facebook_username: UNknow
 
 # Build settings
-markdown:  kramdown
+markdown: redcarpet
 
 permalinks: /:day/:month/:year/:title/
