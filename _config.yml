@@ -4,9 +4,8 @@ email: eveningmisthazel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is Evening Mist a Blog written By UNknow
 
-baseurl: ""
-
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "https://eveningmist.github.io/eveningmist/"
+url: "eveningmist.github.io"
 
 twitter_username: UNknow
 github_username:  UNknow
