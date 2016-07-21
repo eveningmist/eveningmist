@@ -2,7 +2,6 @@
 layout: post
 title:  "The Sample Blog Post"
 date:   2016-07-19 10:10:06 +0530
-categories: First post
 published: true
 ---
 
