@@ -3,6 +3,7 @@ layout: post
 title:  "The  Post"
 date:   2016-07-19 10:10:06 +0530
 published: true
+permalinks: /_post/
 ---
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
