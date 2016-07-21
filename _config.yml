@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
  This is Evening Mist a Blog written By UNknow
 
 baseurl: "https://eveningmist.github.io/eveningmist/"
-url: "eveningmist.github.io"
+url: "eveningmist.github.io/eveningmist/"
 
 twitter_username: UNknow
 github_username:  UNknow
